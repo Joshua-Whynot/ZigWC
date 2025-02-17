@@ -1,2 +1,1 @@
-# ZigWC
-Simple Zig WC
+Pass file as argument
